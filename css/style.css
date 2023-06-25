@@ -234,12 +234,12 @@
 /* Row-7 CSS Start */
 
 #row7{
-    height: 630px;
+    height: 400px;
     width: 100%;
-    background: rgba(57, 71, 106, 0.2)
+    background:#34495E 
 }
 .footer_section{
-    width: 65%;
+    width: 90%;
     margin: 0 auto;
     height: 100%;
     padding: 50px 0px;
@@ -248,14 +248,19 @@
 .footer_item{
     width: 17%;
     float: left;
-    margin-left: 81px;
+    margin-left: 65px;
 }
 .footer_item h4{}
 .footer_item p{
     text-align: justify;
+    color: #fff;
 }
-.footer_item ul{}
+.footer_item ul{
+    color: #fff;
+}
 .footer_item ul li{}
-.footer_item i{}
+.footer_item i{
+    color: blanchedalmond;
+}
 
 /* Row-7 CSS End */
